@@ -1,11 +1,30 @@
 # d3.js
 
+(Directed graph layout for JavaScript)[https://github.com/dagrejs/dagre]
+(dagre-d3)[https://github.com/dagrejs/dagre-d3]
+(sentence parse tree)[https://github.com/bpodgursky/nlpviz]
+(blog)[https://bpodgursky.com/2015/05/18/d3-nlp-visualizer-update/]
 
 (parse tree)[https://github.com/roshan-research/dependency-parse-tree]
 Dependency parse tree visualization with D3 library.
 
 (Word Tree)[https://github.com/eelegiap/wordtreedemo]
 Demo of D3 word tree on Russian words
+
+(Dependency parse tree)[https://github.com/phsfr/d3-dependency-parse-tree]
+Dependency parse tree visualization in universal format using readConllu.php
+
+(Parse Tree)[https://monicalent.com/blog/2014/06/15/parse-tree-editor-d3-editable-tree-layout/]
+Building a Parse Tree Editor in d3 with Tree Layout (Pt. 1 - Display)
+
+(d3-tree-diagram)[https://observablehq.com/@didoesdigital/3-june-2020-d3-tree-diagram-and-d3-hierarchy]
+
+(d3-tree-diagram)[https://observablehq.com/@didoesdigital/3-june-2020-d3-tree-diagram-and-d3-hierarchy]
+
+(d3 hi tree)[https://d3js.org/d3-hierarchy]
+
+
+
 
 (D3JS Tree — The Easy Way)[https://medium.com/@codeo.mascot/d3js-tree-the-easy-way-part-1-530ffb27c374]
 (d3js-examples)[https://github.com/CodeoMascot/d3js-examples]
