@@ -42,6 +42,15 @@ Using D3 Tree to represent hierarchical data
 FCC Data Visualization Projects - Visualize Data with a Treemap Diagram
 
 
+## rust
+(Simple online graphviz (.dot) viewer.)[https://github.com/andrewrosss/graphview?tab=readme-ov-file]
+
+(Rust + Wasm bindings for Graphviz)[https://github.com/t4ccer/viz-js-rs?tab=readme-ov-file]
+
+(How to use Graphviz in your rust code)[https://medium.com/@zhguchev/how-to-use-graphviz-in-your-rust-code-eb2c5771cfab]
+
+[https://graphviz.org/gallery/]
+
 
 (Radial Tree)[https://observablehq.com/@d3/radial-tree-component]
 (Radial Tree_)[https://github.com/LitenApe/d3-radial-tree]
